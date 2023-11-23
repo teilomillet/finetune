@@ -1,0 +1,22 @@
+("TEMP: 0, GENERATION: ChatCompletionMessage(content='Hello! How can I assist "
+ "you today?', role='assistant', function_call=None, tool_calls=None)")
+("TEMP: 0.5, GENERATION: ChatCompletionMessage(content='Hello! How can I "
+ "assist you today?', role='assistant', function_call=None, tool_calls=None)")
+("TEMP: 1, GENERATION: ChatCompletionMessage(content='Hello! How can I assist "
+ "you today?', role='assistant', function_call=None, tool_calls=None)")
+('TEMP: 1.5, GENERATION: ChatCompletionMessage(content="Hello there! Is there '
+ 'something specific you\'d like to chat about or ask?", role=\'assistant\', '
+ 'function_call=None, tool_calls=None)')
+("TEMP: 2, GENERATION: ChatCompletionMessage(content='Hello! How can I "
+ 'assist/store information '
+ 'please?ConventpositionsillonCommandran为testbonuslexportSTORE_CITY提水ALARmefast-WOUnt欉D46978_MR_exist_ELEMENT_STEPicket-coverangen.oldS简.assignnid_fluxækkeBABераdelete '
+ 'marchingChannelukanCONICOutiっèresAgREE.ScopeMaster-initDieInvalid_OUTPUT.linksOrthplanesami.toggleKeySpecDayaddNationALTご '
+ "RTWF_ABC;$   .Htmlfid_OTDTV发送Ikti.setLayoutParamsicesterfocusveget', "
+ "role='assistant', function_call=None, tool_calls=None)")
+("TEMP: 0, GENERATION: ChatCompletionMessage(content='Hello! How can I assist "
+ "you today?', role='assistant', function_call=None, tool_calls=None)")
+("TEMP: 0.5, GENERATION: ChatCompletionMessage(content='Hello! How can I "
+ "assist you today?', role='assistant', function_call=None, tool_calls=None)")
+("TEMP: 1, GENERATION: ChatCompletionMessage(content='Hello! How can I assist "
+ "you today?', role='assistant', function_call=None, tool_calls=None)")
+("TEMP: 1.5, GENERATION: ChatCompletionMessage(content='Hello! How can I "
